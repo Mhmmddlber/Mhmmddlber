@@ -28,7 +28,7 @@ Yıldız Teknik Üniversitesi'nde Endüstri Mühendisliği bölümünden mezun o
 ---
 
 ### 📫 İletişim
--**LinkedIn:** [Muhammed Dilber](https://www.linkedin.com/in/muhammed-dilber-7679641b8/) 
--**E-posta:** dilbermuhammed02@gmail.com 
+- **LinkedIn:** [Muhammed Dilber](https://www.linkedin.com/in/muhammed-dilber-7679641b8/) 
+- **E-posta:** dilbermuhammed02@gmail.com 
 
 ---
